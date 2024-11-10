@@ -72,3 +72,18 @@ Experienced Web Developer. Looking for an opportunity in big tech company for st
 - Built architecture using rest api for client connection and successfully used third party api’s
 
 **Used technologies:** React, Node.js, MySQL (Sequelize ORM), PostgreSQL (Prisma.ts ORM), Rest API, Telegram API, OpenAI API
+
+---
+
+## Education
+
+**Bachelor** - European University of Lefke (Civil Engineering)
+
+## English
+
+- **IELTS 2018** - B2
+- **Bachelor degree** - 4 years of training in English
+
+## Code Examples
+
+Feel free to check out my [Github profile](https://github.com/moxx1234)
